@@ -1,9 +1,9 @@
 ## PROBLEMS
 
 ### 7kyu
-1. Last Survivor (9/14/2021)
-2. Highest and Lowest (9/15/2021)
-3. Jaden Casing String (9/16/2021)
+1. [Last Survivor](https://github.com/bethh56/codewars/blob/main/7kyu/LastSurvivor.js) (9/14/2021)
+2. [Highest and Lowest](https://github.com/bethh56/codewars/blob/main/7kyu/HighestAndLowest.js) (9/15/2021)
+3. [Jaden Casing String](https://github.com/bethh56/codewars/blob/main/7kyu/JadenCasingStrings.js) (9/16/2021)
 
 ### 8kyu
-1. Beginner Series #4 Cockroach (9/14/2021)
+1. [Beginner Series #4 Cockroach](https://github.com/bethh56/codewars/blob/main/8kyu/Cockroach.js) (9/14/2021)
