@@ -4,4 +4,5 @@
 // Write a function which takes its speed in km per hour and returns it in cm per second, rounded down to the integer.
 
 // Solution
+// figured out equation to convert km/hr to cm/sec and used Math.Floor to round down to int
 const cockroachSpeed = (s) => Math.floor(s*27.7778) 
