@@ -3,6 +3,8 @@
 ### 6kyu
 1. [Convert String To CamelCase](https://github.com/bethh56/codewars/blob/main/6kyu/ConvertStringToCamelCase.js) (9/21/2021)
 ### 7kyu
+1. [Say "Hello World" JS Style]() (9/22/2021)
+1. [Functional Add]() (9/22/2021)
 1. [Jaden Casing String](https://github.com/bethh56/codewars/blob/main/7kyu/JadenCasingStrings.js) (9/16/2021)
 1. [Highest and Lowest](https://github.com/bethh56/codewars/blob/main/7kyu/HighestAndLowest.js) (9/15/2021)
 1. [Last Survivor](https://github.com/bethh56/codewars/blob/main/7kyu/LastSurvivor.js) (9/14/2021)
