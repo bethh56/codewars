@@ -3,6 +3,7 @@
 ### 6kyu
 1. [Convert String To CamelCase](https://github.com/bethh56/codewars/blob/main/6kyu/ConvertStringToCamelCase.js) (9/21/2021)
 ### 7kyu
+1. [Negative Connotation]() (9/27/2021)
 1. [Say "Hello World" JS Style](https://github.com/bethh56/codewars/blob/main/7kyu/SayHelloWorld.js) (9/22/2021)
 1. [Functional Addition](https://github.com/bethh56/codewars/blob/main/7kyu/FunctionalAddition.js) (9/22/2021)
 1. [Jaden Casing String](https://github.com/bethh56/codewars/blob/main/7kyu/JadenCasingStrings.js) (9/16/2021)
