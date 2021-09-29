@@ -11,3 +11,6 @@ function solution(str){
   }
   return newArray.join('');
 }
+
+// REFACTORED
+const solution = (str) => str.split('').reverse().join('');
