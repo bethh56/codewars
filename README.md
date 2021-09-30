@@ -3,7 +3,7 @@
 ### 6kyu
 1. [Convert String To CamelCase](https://github.com/bethh56/codewars/blob/main/6kyu/ConvertStringToCamelCase.js) (9/21/2021)
 ### 7kyu
-1. [Which string is worth more?]() (9/30/2021)
+1. [Which String is Worth More?](https://github.com/bethh56/codewars/blob/main/7kyu/WhichStringIsWorthMore.js) (9/30/2021)
 1. [Move Zeros](https://github.com/bethh56/codewars/blob/main/7kyu/MoveZeros.js) (9/29/2021)
 1. [Thinkful-List Drills: Longest Word](https://github.com/bethh56/codewars/blob/main/7kyu/LongestWord.js) (9/29/2021)
 1. [Case Swapping](https://github.com/bethh56/codewars/blob/main/7kyu/CaseSwapping.js) (9/28/2021)
