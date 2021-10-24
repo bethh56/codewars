@@ -15,6 +15,7 @@
 1. [Last Survivor](https://github.com/bethh56/codewars/blob/main/7kyu/LastSurvivor.js) (9/14/2021)
 
 ### 8kyu
+1. [Reversed Sequence](8kyu\ReversedSequence.js) (10/24/2021)
 1. [Merge Two Sorted Arrays into One](https://github.com/bethh56/codewars/blob/main/8kyu/MergeArrays.js) (9/28/2021)
 1. [Reversed String](https://github.com/bethh56/codewars/blob/main/8kyu/ReversedString.js) (9/28/2021)
 1. [Name On Billboard](https://github.com/bethh56/codewars/blob/main/8kyu/NameOnBillboard.js) (9/20/2021)
